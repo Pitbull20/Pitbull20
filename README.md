@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello, Guys! 👋
+<hr>
 
-<!--
-**Pitbull20/Pitbull20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Something about me:
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning React and TypeScript 😯
+- 📫 How to reach me: [Telegram](https://t.me/ultra_pitbull) 💕
+- 👀 I am interested in programming, information security and learning English 😏
+- ⚡ Fun fact: the earth is round 😁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My technology stack and profession:
+
+- 🤠 React & TailWind & TypeScript & NodeJS & PostgreSQL 🎶
+- 😯 Full Stack Web Developer 😘
