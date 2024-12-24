@@ -32,8 +32,6 @@ Welcome to my GitHub profile! I'm a passionate developer, constantly learning an
 
 ## 💬 Let's Connect
 - **GitHub**: [github.com/Pitbull20](https://github.com/Pitbull20)
-- **Email**: [YourEmail@example.com](mailto:YourEmail@example.com)
-
 ---
 
 Stay tuned for exciting updates and new projects! 🚀
